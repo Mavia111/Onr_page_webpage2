@@ -2,7 +2,6 @@ import streamlit as st
 import string as string
 # Set page title and icon
 st.set_page_config(page_title="Simple Website", page_icon=":tada", layout="wide")
-string.ascii_letters
 # Header Section
 st.title("Welcome to My Website 🌟")
 st.write("I have a lot of Experience in WordPress, Asp .Net MVC, PHP development, Android applications, and Desktop Application Developer. I can make a magnificent and Professional site and applications within an exceptionally brief timeframe. I love to work with customers from everywhere throughout the world. ")
